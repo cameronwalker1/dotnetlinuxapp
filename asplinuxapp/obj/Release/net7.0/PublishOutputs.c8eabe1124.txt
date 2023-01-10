@@ -1,0 +1,7 @@
+C:\Users\camwalker\asplinuxapp\asplinuxapp\obj\Release\net7.0\PubTmp\Out\asplinuxapp.exe
+C:\Users\camwalker\asplinuxapp\asplinuxapp\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\camwalker\asplinuxapp\asplinuxapp\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\camwalker\asplinuxapp\asplinuxapp\obj\Release\net7.0\PubTmp\Out\asplinuxapp.dll
+C:\Users\camwalker\asplinuxapp\asplinuxapp\obj\Release\net7.0\PubTmp\Out\asplinuxapp.deps.json
+C:\Users\camwalker\asplinuxapp\asplinuxapp\obj\Release\net7.0\PubTmp\Out\asplinuxapp.runtimeconfig.json
+C:\Users\camwalker\asplinuxapp\asplinuxapp\obj\Release\net7.0\PubTmp\Out\asplinuxapp.pdb
